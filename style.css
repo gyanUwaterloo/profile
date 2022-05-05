@@ -10,8 +10,8 @@ Description: This Template is created for web template
 /* ===================================== Import Less ================================== */
 @font-face {
   font-family: robot-slab;
-  src: url('../fonts/RobotoSlab-Regular.ttf');
-  src: url('../fonts/RobotoSlab-Regular.ttf') format('truetype');
+  src: url('./fonts/RobotoSlab-Regular.ttf');
+  src: url('./fonts/RobotoSlab-Regular.ttf') format('truetype');
 }
 .blog-box1 .cdfik li {
   float: left;
